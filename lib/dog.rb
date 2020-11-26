@@ -6,10 +6,6 @@ end
     @name
   end
 
-  def name=(dogs_new_name)
-    @name = dogs_new_name
-end
-
 def breed=(breed_name)
   @this_dogs_breed = dog_breed
 end
